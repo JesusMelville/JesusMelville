@@ -53,6 +53,4 @@ Diseño y construyo software que resuelve problemas reales, del backend a la int
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusMelville&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 </div>
