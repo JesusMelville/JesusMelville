@@ -1,24 +1,21 @@
 <table>
 <tr>
-<td width="170" align="center" valign="top">
+<td width="140" align="center" valign="top">
+
+<div align="center">
 
 <img src="https://ui-avatars.com/api/?name=Jesus&background=2d2d2d&color=fff&size=128&rounded=true&bold=true" width="90" height="90" />
-
-<br><br>
 
 **Jesús**
 
 <sub>Callao, Perú</sub>
 
-<br><br>
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JesusMelville)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesusmelville/)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jesusmelvillemm@gmail.com)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/51941686276)
+
+</div>
 
 </td>
 <td valign="top">
